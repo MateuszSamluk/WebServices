@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebServices</string>
+    <string name="content_description">Book cover</string>
+    <string name="search_title">Search</string>
+    <string name="clear_search">Clear search</string>
+    <string name="search_failure">Something went wrong... PLase try later</string>
+    <string name="book_title">Title: %1$s</string>
+    <string name="book_authors">Authors: %1$s</string>
+    <string name="book_number_of_page">Number of pages: %1$s</string>
+    <string name="book_first_release">Year of first release: %1$s</string>
+    <string name="book_language">Language: %1$s</string>
+</resources>
